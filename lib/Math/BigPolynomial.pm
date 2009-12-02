@@ -5,7 +5,7 @@ use strict;
 
 =head1 NAME
 
-Math::BigPolynomial - The great new Math::BigPolynomial!
+Math::BigPolynomial - Polynomial operations with BigInts
 
 =head1 VERSION
 
@@ -18,27 +18,12 @@ our $VERSION = '0.01';
 
 =head1 SYNOPSIS
 
-Quick summary of what the module does.
+Stuff.
 
-Perhaps a little code snippet.
-
-    use Math::BigPolynomial;
-
-    my $foo = Math::BigPolynomial->new();
-    ...
-
-=head1 EXPORT
-
-A list of functions that can be exported.  You can delete this section
-if you don't export anything, such as for a purely object-oriented module.
-
-=head1 FUNCTIONS
-
-=cut
-
-=head1 AUTHOR
+=head1 AUTHORS
 
 Bob Kuo, C<< <bobjkuo at gmail.com> >>
+Jonathan Leto C<< jonthan@leto.net >>
 
 =head1 BUGS
 
